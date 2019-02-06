@@ -1,6 +1,7 @@
-# jenkins-slave-on-docker-
+# jenkins-master and slave-on-docker
 jenkins dockerfile + jenkins slave docker file = docker-compose after the build
 
+images are with docker and ansible instelled
 
 
 usege:
